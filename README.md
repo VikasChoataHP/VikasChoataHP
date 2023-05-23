@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about - DevOps, Kubernetes. 
-- 📫 mailtovikas@rocketmail.com
+My name is Vikas, and I am from Shimla, Himachal Pradesh. 
 
 <!--
 **VikasChoataHP/VikasChoataHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
