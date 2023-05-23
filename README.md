@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vikas, and I am from Shimla, Himachal Pradesh. 
+My name is Vikas, and I am from Shimla, Himachal Pradesh, India.
 
 <!--
 **VikasChoataHP/VikasChoataHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
